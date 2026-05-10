@@ -16,8 +16,8 @@ class Calculator:
 
     # TODO: Implement square root function
 
-    def square_root(self, x):
-       return math.sqrt(x)
+    # def square_root(self, x):
+    #     return math.sqrt(x)
 
 if __name__ == "__main__":
 
@@ -33,5 +33,5 @@ if __name__ == "__main__":
 
     # TODO: Uncomment and test square root feature
 
-    num3 = 25
-    print(f"The square root of {num3} = {calculator.square_root(num3)}")
+    # num3 = 25
+    # print(f"The square root of {num3} = {calculator.square_root(num3)}")
