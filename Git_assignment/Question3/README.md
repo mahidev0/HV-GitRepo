@@ -50,11 +50,12 @@ print("Feature branch update")
 def login(username):
     return f"Welcome {username}"
 
-print(login("Mahi"))
+print(login("Mohini Kashyap"))
 ```
 
 ---
 
 ## Outcome
+-<img width="831" height="249" alt="image" src="https://github.com/user-attachments/assets/1fd4712a-7bcd-4298-bc7a-554fbfc0746d" />
 
 Successfully worked with Git branches and merged feature development into the main branch.
